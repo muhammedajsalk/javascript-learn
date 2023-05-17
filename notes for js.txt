@@ -1,0 +1,71 @@
+1)veriables
+
+Declare a variable called name and assign it your name as a string. Print the value of name to the console.
+
+Declare a variable called age and assign it your age as a number. Print the value of age to the console.
+
+Declare a variable called favoriteColor and assign it your favorite color as a string. Print the value of favoriteColor to the console.
+
+Declare a variable called isColdOutside and assign it a boolean value based on whether it is cold outside. Print the value of isColdOutside to the console.
+
+Declare a variable called shoppingList and assign it an array of strings representing items you need to buy at the store. Print the value of shoppingList to the console.
+
+Declare a variable called person and assign it an object with properties for their name, age, and favorite color. Print the value of person to the console.
+
+
+2)datatypes
+
+Write a function that takes a string and returns the length of the string.
+
+Write a function that takes two numbers and returns their sum.
+
+Write a function that takes an array of numbers and returns the average of those numbers.
+
+Write a function that takes an array of strings and returns a new array with all of the strings in uppercase.
+
+Write a function that takes an object and returns the value of its "name" property.
+
+Write a function that takes a boolean value and returns a string of "yes" or "no" depending on the value.
+
+
+3)arrays
+
+Declare an array called numbers and assign it the values 1, 2, 3, 4, and 5. Print the value of the second element in the array.
+
+Declare an array called colors and assign it the values "red", "orange", "yellow", "green", and "blue". Print the value of the fourth element in the array.
+
+Declare an array called mixedData and assign it the values 1, "two", 3, "four", 5, "six". Print the value of the third element in the array.
+
+Write a function that takes an array of numbers and returns the sum of all the numbers in the array.
+
+Write a function that takes an array of strings and returns a new array with all of the strings in uppercase.
+
+Write a function that takes an array of objects and returns an array of the values of a specific property of each object.
+
+4)objects
+
+Declare an object called person with properties for their name, age, and favorite color. Print the value of the "name" property.
+
+Declare an object called car with properties for the make, model, and year. Print the value of the "model" property.
+
+Declare an object called item with properties for the name and price. Write a function that takes an object as an argument and returns a string with the name and price of the item.
+
+Write a function that takes an object and returns the value of its "name" property.
+
+Write a function that takes an object and returns a new object with all of the values of the original object but in uppercase.
+
+Write a function that takes an object with a "name" property and returns a string greeting the person by name.
+
+5)operators
+
+Declare two variables, a and b, and assign them the values 5 and 10, respectively. Use the addition operator (+) to add a and b together and assign the result to a new variable called c. Print the value of c to the console.
+
+Declare two variables, x and y, and assign them the values "5" and "10", respectively. Use the addition operator (+) to concatenate x and y together and assign the result to a new variable called z. Print the value of z to the console.
+
+Declare a variable called num1 and assign it the value 10. Declare another variable called num2 and assign it the value 20. Write an if statement that compares the values of num1 and num2 using the less than operator (<) and prints "num1 is less than num2" if the comparison is true, and "num1 is not less than num2" if the comparison is false.
+
+Declare a variable called str1 and assign it the value "Hello". Declare another variable called str2 and assign it the value "World". Write an if statement that compares the values of str1 and str2 using the strict equality operator (===) and prints "str1 is equal to str2" if the comparison is true, and "str1 is not equal to str2" if the comparison is false.
+
+Declare a variable called score and assign it the value 50. Write a ternary operator that compares the value of score to 50 and assigns the value "pass" to a variable called result if the value of score is greater than or equal to 50, and "fail" if the value is less than 50. Print the value of result to the console.
+
+
